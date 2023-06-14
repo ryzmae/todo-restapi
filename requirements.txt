@@ -1,0 +1,4 @@
+fastapi
+slowapi
+pymongo
+uvicorn
